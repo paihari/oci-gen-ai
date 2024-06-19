@@ -30,13 +30,20 @@ On May 21, 2024, the European Union approved the world's first comprehensive AI 
 
 Like earlier regulations such as GDPR and MiFID II, this act will shape the AI ecosystem significantly.
 
-## Solving Problems with the Problem
+This will obviosly created ripples, and would hear often organizations saying
+
+> "We are working on the EU AI act problem, to get into compliance", or few more would tell the problem as opportunity
+
+
+## Solution to the problem is with the problem
 
 At this stage, my learning journey gained a purpose beyond mere leaning. The positive news was clear: "Consensus leads to approval." When people are impacted, regulations help streamline activities and bring positive benefits.
 
 As with all regulations, the AI Act comes with extensive documentation. Legal, regulatory, and security experts will form forums to disseminate crucial information within organizations. This led to my objective:
 
 > "Ask the AI, on what AI system's Todos and Not Todos" as per the current document stored locally.
+
+To start small, got a single Document that encapsuates this information in ![AI Act](src/pdf-docs/EPRS_BRI698792_EN.pdf) in the RAG program
 
 The results from this grounded reality were quite impressive, opening up numerous opportunities for further exploration and development.
 
