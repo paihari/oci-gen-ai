@@ -35,7 +35,7 @@ This will obviosly created ripples, and would hear often organizations saying
 > "We are working on the EU AI act problem, to get into compliance", or few more would tell the problem as opportunity
 
 
-## Solution to the problem is with the problem
+## Solution to the problem is within the problem
 
 At this stage, my learning journey gained a purpose beyond mere leaning. The positive news was clear: "Consensus leads to approval." When people are impacted, regulations help streamline activities and bring positive benefits.
 
