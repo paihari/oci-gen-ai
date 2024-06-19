@@ -17,7 +17,7 @@ Understanding the basics is crucial before diving into more complex AI topics. H
 
 General AI (GenAI) services provide the backbone for various AI applications. These services include models and tools that facilitate the development and deployment of AI solutions.
 
-![Gen AI Services Diagram](docs/20240312-AI-Generative AI Service.drawio.png)
+![Gen AI Services Diagram](docs/20240312-AI-Generative-AI-Service.drawio.png)
 
 ## Retrieval-Augmented Generation (RAG)
 
