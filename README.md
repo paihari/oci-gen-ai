@@ -167,8 +167,3 @@ RAG improves the quality and relevance of generated responses by combining three
 - **Balance:** Utilizes retrieved information while generating new content based on the model’s training.
 
 
-![RAG Diagram](docs/20240312-AI-RAG.drawio.png)
-
-
-
-
