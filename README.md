@@ -11,7 +11,7 @@ Journey began with  reading, listening, and learning. Was fascinated by the crea
 
 ### Initial Boost
 
-In my context the launch of Oracle Cloud Infrastructure GenAI service provided the first major boost to this project:
+In my context the launch of Oracle Cloud Infrastructure GenAI service provided the first major boost to this exploration:
 
 [Oracle Cloud Infrastructure GenAI Service](https://www.oracle.com/artificial-intelligence/generative-ai/generative-ai-service/)
 
