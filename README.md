@@ -38,7 +38,30 @@ Embarking on a new topic can be daunting. It helps to have some foundational kno
 
 ## Gen AI Services
 
-General AI (GenAI) services provide the backbone for various AI applications. These services include models and tools that facilitate the development and deployment of AI solutions.
+# Generative AI Services
+
+## Key Points
+
+- **Pre-trained Foundational Models**:
+  - Used for text generation, summarization, and embedding.
+  - Models like Cohere and Llama are commonly used.
+
+- **Generation and Embedding Services**:
+  - Generate vectors for words and sentences to determine semantic similarity.
+  - Utilize models for various applications, including semantic similarity.
+
+- **Prompt Engineering**:
+  - Essential for refining AI outputs.
+  - Techniques like in-context learning and K-shot prompting enhance performance.
+
+- **Customization with User Data**:
+  - Involves prompt engineering, retrieval-augmented generation (RAG), and fine-tuning.
+  - Allows for tailored AI solutions.
+
+- **Inference Services**:
+  - Facilitate deployment of customized models.
+  - Provide tailored responses based on specific prompts and data.
+
 
 ![Gen AI Services Diagram](docs/20240312-AI-Generative-AI-Service.drawio.png)
 
